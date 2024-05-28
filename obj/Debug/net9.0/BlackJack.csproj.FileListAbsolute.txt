@@ -1,0 +1,14 @@
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.deps.json
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.runtimeconfig.json
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.dll
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/bin/Debug/net9.0/BlackJack.pdb
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.AssemblyInfoInputs.cache
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.AssemblyInfo.cs
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.dll
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/refint/BlackJack.dll
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.pdb
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/BlackJack.genruntimeconfig.cache
+/Users/quentinwisniewski/Desktop/Csharp/BlackJack/BlackJack/obj/Debug/net9.0/ref/BlackJack.dll
